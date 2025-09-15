@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "map-ner",
+      "description": "A map of North East India with hotspots",
+      "imageUrl": "https://picsum.photos/seed/map1/800/600",
+      "imageHint": "map india"
+    }
+  ]
+}

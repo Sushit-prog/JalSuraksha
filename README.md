@@ -1,5 +1,4 @@
-# Firebase Studio
+# Jalsuraksha SIH2K25
+This is a prototype made for SIH internal hackathon conducted by GNIt
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+Deployed using Vercel
